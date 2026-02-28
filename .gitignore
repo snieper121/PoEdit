@@ -1,0 +1,21 @@
+/.androidide
+/.androidpe
+
+.gradle/
+.kotlin/
+build/
+bin/
+gen/
+out/
+
+.externalNativeBuild
+.cxx/
+
+# AndroidPE / Termux
+.androidpe/
+.cache/
+.trash/
+
+# Локальные настройки
+local.properties
+*.iml
